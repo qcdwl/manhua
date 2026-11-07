@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">AI漫画制作流程</title>
+  <desc id="desc">准备内容、角色分镜、AI润色、生图制作、检查导出。后续使用剪映剪辑并发布作品。</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17172b"/><stop offset="1" stop-color="#0f1423"/></linearGradient></defs>
+  <rect width="1200" height="330" rx="20" fill="url(#bg)"/>
+  <g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif">
+    <text x="38" y="49" fill="#f2f0ff" font-size="24" font-weight="600">从故事到漫画，把制作步骤串起来</text>
+    <text x="38" y="79" fill="#9d9aad" font-size="15">先测试前 10 页，再继续制作</text>
+    <g fill="#202239" stroke="#353651"><rect x="38" y="111" width="202" height="120" rx="13"/><rect x="269" y="111" width="202" height="120" rx="13"/><rect x="500" y="111" width="202" height="120" rx="13"/><rect x="731" y="111" width="202" height="120" rx="13"/><rect x="962" y="111" width="200" height="120" rx="13"/></g>
+    <g fill="#aaa0ff" font-size="16"><text x="56" y="142">01</text><text x="287" y="142">02</text><text x="518" y="142">03</text><text x="749" y="142">04</text><text x="980" y="142">05</text></g>
+    <g fill="#f2f0ff" font-size="23" font-weight="600"><text x="56" y="179">准备内容</text><text x="287" y="179">角色分镜</text><text x="518" y="179">AI 润色</text><text x="749" y="179">生图制作</text><text x="980" y="179">检查导出</text></g>
+    <g fill="#aaa8bb" font-size="14"><text x="56" y="207">整理故事与素材</text><text x="287" y="207">整理角色 / 导入分镜</text><text x="518" y="207">统一提示词要求</text><text x="749" y="207">测试画风与一致性</text><text x="980" y="207">逐页检查并导出素材</text></g>
+    <g fill="#78728e" font-size="22"><text x="246" y="179">›</text><text x="477" y="179">›</text><text x="708" y="179">›</text><text x="939" y="179">›</text></g>
+    <path d="M38 259H1162" stroke="#2d3046"/>
+    <text x="38" y="295" fill="#aaa8bb" font-size="16">导出后续：剪映剪辑 → 平台发布 → 按推广流程回填作品</text>
+    <text x="1024" y="295" fill="#a59aff" font-size="16">抖特网络</text>
+  </g>
+</svg>
