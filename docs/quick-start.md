@@ -4,7 +4,7 @@
 
 ## 1. 安装并登录
 
-从 [Releases](https://github.com/qcdwl/manhua/releases) 下载 Windows `.exe` 安装包，安装后双击桌面上的“AI漫画工作台”。在登录页面注册或登录账号。
+从 [主下载入口](https://mh.xylos.cn/downloads/AI-Comic-Workbench-Setup.exe) 下载 Windows `.exe` 安装包；如无法下载，可使用 [GitHub 备用下载](https://github.com/qcdwl/manhua/releases/latest/download/AI-Comic-Workbench-Setup.exe)。安装后双击桌面上的“AI漫画工作台”，在登录页面注册或登录账号。
 
 ## 知乎小说推广授权 / 提取素材
 
