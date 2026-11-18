@@ -4,7 +4,9 @@
 
 ## 1. 下载并登录
 
-下载 [v1.3.2 Windows 免安装版](https://github.com/qcdwl/manhua/releases/download/v1.3.2/AI-Comic-Workbench-1.3.2-Portable.zip)，完全退出旧版，将 ZIP 完整解压到固定文件夹，双击其中的 **AI漫画工作台.exe**。请保留同目录的全部文件。在登录页面注册或登录账号。
+下载 [v1.3.2 Windows 免安装版](https://mh.xylos.cn/downloads/AI-Comic-Workbench-1.3.2-Portable.zip)，完全退出旧版，将 ZIP 完整解压到固定文件夹，双击其中的 **AI漫画工作台.exe**。请保留同目录的全部文件。在登录页面注册或登录账号。
+
+主下载入口无法下载时，可使用 [GitHub 备用下载](https://github.com/qcdwl/manhua/releases/download/v1.3.2/AI-Comic-Workbench-1.3.2-Portable.zip)。
 
 新版默认缩放为 **80%**；按 **Ctrl+0** 恢复至 80%。需要桌面入口时，为新版 exe 创建快捷方式，原安装版快捷方式仍指向旧版。
 
