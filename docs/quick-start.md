@@ -2,9 +2,11 @@
 
 [返回项目首页](../README.md) · [完整图文教程](https://ncng8szhbogw.feishu.cn/wiki/Ck26wD5qvixxprkJyaqc85wDnwc?from=from_copylink)
 
-## 1. 安装并登录
+## 1. 下载并登录
 
-从 [主下载入口](https://mh.xylos.cn/downloads/AI-Comic-Workbench-Setup.exe) 下载 Windows `.exe` 安装包；如无法下载，可使用 [GitHub 备用下载](https://github.com/qcdwl/manhua/releases/latest/download/AI-Comic-Workbench-Setup.exe)。安装后双击桌面上的“AI漫画工作台”，在登录页面注册或登录账号。
+下载 [v1.3.2 Windows 免安装版](https://github.com/qcdwl/manhua/releases/download/v1.3.2/AI-Comic-Workbench-1.3.2-Portable.zip)，完全退出旧版，将 ZIP 完整解压到固定文件夹，双击其中的 **AI漫画工作台.exe**。请保留同目录的全部文件。在登录页面注册或登录账号。
+
+新版默认缩放为 **80%**；按 **Ctrl+0** 恢复至 80%。需要桌面入口时，为新版 exe 创建快捷方式，原安装版快捷方式仍指向旧版。
 
 ## 知乎小说推广授权 / 提取素材
 
