@@ -10,7 +10,7 @@
 
 角色推理 · 分镜导入 · AI 润色 · 提示词前后缀 · 生图 · 检查导出
 
-<a href="https://github.com/qcdwl/manhua/releases/download/v1.3.2/AI-Comic-Workbench-1.3.2-Portable.zip"><img src="https://img.shields.io/badge/下载_Windows_版-6366F1?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="下载 Windows 版"></a>
+<a href="https://mh.xylos.cn/downloads/AI-Comic-Workbench-1.3.2-Portable.zip"><img src="https://img.shields.io/badge/下载_Windows_版-6366F1?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="下载 Windows 版"></a>
 &nbsp;
 <a href="https://ncng8szhbogw.feishu.cn/wiki/Ck26wD5qvixxprkJyaqc85wDnwc?from=from_copylink"><img src="https://img.shields.io/badge/查看完整教程-202535?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="查看完整教程"></a>
 
@@ -65,7 +65,9 @@ AI漫画工作台把在线漫画制作工具放进独立的电脑窗口，适合
 
 | 系统 | 下载入口 | 版本形式 |
 | --- | --- | --- |
-| Windows 10 / 11（64 位） | **[下载 v1.3.2 Windows 免安装版](https://github.com/qcdwl/manhua/releases/download/v1.3.2/AI-Comic-Workbench-1.3.2-Portable.zip)** | ZIP 压缩包，完整解压后运行 |
+| Windows 10 / 11（64 位） | **[下载 v1.3.2 Windows 免安装版](https://mh.xylos.cn/downloads/AI-Comic-Workbench-1.3.2-Portable.zip)** | ZIP 压缩包，完整解压后运行 |
+
+主下载入口使用独立服务器，无需登录网盘。无法下载时可使用 **[GitHub 备用下载](https://github.com/qcdwl/manhua/releases/download/v1.3.2/AI-Comic-Workbench-1.3.2-Portable.zip)**。
 
 v1.3.2 默认以 **80%** 显示页面，按 **Ctrl+0** 恢复至 80%。可前往 [Releases 发布页](https://github.com/qcdwl/manhua/releases) 查看版本及附件。
 
@@ -76,8 +78,6 @@ v1.3.2 默认以 **80%** 显示页面，按 **Ctrl+0** 恢复至 80%。可前往
 5. 注册或登录账号，按教程完成 API 配置后开始制作。
 
 请选择上述软件 ZIP；GitHub 自动提供的 `Source code` 压缩包是仓库文件，不包含可运行软件。
-
-旧版备用：[v1.3.1 国内安装包](https://mh.xylos.cn/downloads/AI-Comic-Workbench-Setup.exe)（默认 100% 缩放，非 v1.3.2）。
 
 ## 🚀 快速开始
 
@@ -113,7 +113,7 @@ v1.3.2 默认以 **80%** 显示页面，按 **Ctrl+0** 恢复至 80%。可前往
 
 ### 下载慢、链接打不开怎么办？
 
-可前往 [v1.3.2 发布页](https://github.com/qcdwl/manhua/releases/tag/v1.3.2) 下载免安装 ZIP。如只需旧版，可使用 [v1.3.1 国内安装包](https://mh.xylos.cn/downloads/AI-Comic-Workbench-Setup.exe)。仍有问题时，可联系客服微信 `mechodd` 获取帮助。
+优先使用 [服务器下载](https://mh.xylos.cn/downloads/AI-Comic-Workbench-1.3.2-Portable.zip)。如无法下载，可切换到 [GitHub 备用下载](https://github.com/qcdwl/manhua/releases/download/v1.3.2/AI-Comic-Workbench-1.3.2-Portable.zip)，或前往 [v1.3.2 发布页](https://github.com/qcdwl/manhua/releases/tag/v1.3.2)。仍有问题时，可联系客服微信 `mechodd` 获取帮助。
 
 ### 页面空白、连接失败或生成失败怎么办？
 
