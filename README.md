@@ -10,11 +10,11 @@
 
 角色推理 · 分镜导入 · AI 润色 · 提示词前后缀 · 生图 · 检查导出
 
-<a href="https://mh.xylos.cn/downloads/AI-Comic-Workbench-Setup.exe"><img src="https://img.shields.io/badge/下载_Windows_版-6366F1?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="下载 Windows 版"></a>
+<a href="https://github.com/qcdwl/manhua/releases/download/v1.3.2/AI-Comic-Workbench-1.3.2-Portable.zip"><img src="https://img.shields.io/badge/下载_Windows_版-6366F1?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="下载 Windows 版"></a>
 &nbsp;
 <a href="https://ncng8szhbogw.feishu.cn/wiki/Ck26wD5qvixxprkJyaqc85wDnwc?from=from_copylink"><img src="https://img.shields.io/badge/查看完整教程-202535?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="查看完整教程"></a>
 
-Windows 10 / 11（64 位） · 安装后使用 · 需要联网
+Windows 10 / 11（64 位） · v1.3.2 免安装版 · 需要联网
 
 [下载与安装](#-下载与安装) · [主要功能](#-主要功能) · [快速开始](#-快速开始) · [常见问题](#-常见问题)
 
@@ -24,7 +24,7 @@ Windows 10 / 11（64 位） · 安装后使用 · 需要联网
 
 ## 🖥️ 这是一个什么工具？
 
-AI漫画工作台把在线漫画制作工具放进独立的电脑窗口，适合用大屏幕整理故事、编辑分镜、检查画面和导出素材。安装后双击桌面图标即可进入，不需要手动输入网页地址。
+AI漫画工作台把在线漫画制作工具放进独立的电脑窗口，适合用大屏幕整理故事、编辑分镜、检查画面和导出素材。解压后双击程序即可进入，不需要手动输入网页地址。
 
 从小说内容出发，依次完成角色、分镜、提示词和画面的制作，再将导出的素材用于后续剪辑与发布。
 
@@ -51,7 +51,7 @@ AI漫画工作台把在线漫画制作工具放进独立的电脑窗口，适合
 | 🧩 前后缀设置 | 统一添加画风、构图等提示词要求 |
 | 🎨 生图制作 | 按实际配置的模型与接口生成漫画画面 |
 | 🔎 检查与导出 | 逐页检查画面，完成需要的遮盖处理并导出素材 |
-| 🖥️ 桌面使用 | 独立窗口、桌面快捷方式，支持刷新、缩放和全屏 |
+| 🖥️ 桌面使用 | 独立窗口，默认 80% 缩放，支持刷新、调整缩放和全屏 |
 
 具体功能和可用模型以在线工具当前提供的内容为准。
 
@@ -63,19 +63,21 @@ AI漫画工作台把在线漫画制作工具放进独立的电脑窗口，适合
 
 ## 📥 下载与安装
 
-| 系统 | 下载入口 | 安装文件 |
+| 系统 | 下载入口 | 版本形式 |
 | --- | --- | --- |
-| Windows 10 / 11（64 位） | **[下载 Windows 安装包](https://mh.xylos.cn/downloads/AI-Comic-Workbench-Setup.exe)** | `AI-Comic-Workbench-Setup.exe` |
+| Windows 10 / 11（64 位） | **[下载 v1.3.2 Windows 免安装版](https://github.com/qcdwl/manhua/releases/download/v1.3.2/AI-Comic-Workbench-1.3.2-Portable.zip)** | ZIP 压缩包，完整解压后运行 |
 
-主下载入口使用独立服务器，无需登录网盘。也可以使用 **[GitHub 备用下载](https://github.com/qcdwl/manhua/releases/latest/download/AI-Comic-Workbench-Setup.exe)**，或前往 [Releases 发布页](https://github.com/qcdwl/manhua/releases) 查看版本和附件。
+v1.3.2 默认以 **80%** 显示页面，按 **Ctrl+0** 恢复至 80%。可前往 [Releases 发布页](https://github.com/qcdwl/manhua/releases) 查看版本及附件。
 
-1. 下载上面的 Windows 安装包。
-2. 如果已安装旧版，请先完全退出正在运行的软件。
-3. 双击安装包，按安装向导完成安装。
-4. 从桌面或开始菜单打开 **AI漫画工作台**。
+1. 下载 **AI-Comic-Workbench-1.3.2-Portable.zip**。
+2. 完全退出正在运行的旧版软件。
+3. 将 ZIP **完整解压**到固定文件夹，打开其中的 **AI漫画工作台.exe**。
+4. 请保留同目录中的全部文件。需要桌面入口时，可为新版 exe 创建快捷方式；原安装版快捷方式仍指向旧版。
 5. 注册或登录账号，按教程完成 API 配置后开始制作。
 
-请下载上面的 `.exe` 安装包；使用 GitHub 备用下载时，请选择 Releases 中的 `.exe` 附件。GitHub 自动提供的 `Source code` 压缩包是仓库文件，不是软件安装包。
+请选择上述软件 ZIP；GitHub 自动提供的 `Source code` 压缩包是仓库文件，不包含可运行软件。
+
+旧版备用：[v1.3.1 国内安装包](https://mh.xylos.cn/downloads/AI-Comic-Workbench-Setup.exe)（默认 100% 缩放，非 v1.3.2）。
 
 ## 🚀 快速开始
 
@@ -95,7 +97,7 @@ AI漫画工作台把在线漫画制作工具放进独立的电脑窗口，适合
 
 ### 可以断网使用吗？
 
-制作漫画需要连接在线服务与所配置的 AI 接口。安装包不包含本地大模型。
+制作漫画需要连接在线服务与所配置的 AI 接口。软件不包含本地大模型。
 
 ### 需要什么配置？
 
@@ -111,7 +113,7 @@ AI漫画工作台把在线漫画制作工具放进独立的电脑窗口，适合
 
 ### 下载慢、链接打不开怎么办？
 
-优先使用 [主下载入口](https://mh.xylos.cn/downloads/AI-Comic-Workbench-Setup.exe)。如无法下载，可切换到 [GitHub 备用下载](https://github.com/qcdwl/manhua/releases/latest/download/AI-Comic-Workbench-Setup.exe)。仍有问题时，可联系客服微信 `mechodd` 获取帮助。
+可前往 [v1.3.2 发布页](https://github.com/qcdwl/manhua/releases/tag/v1.3.2) 下载免安装 ZIP。如只需旧版，可使用 [v1.3.1 国内安装包](https://mh.xylos.cn/downloads/AI-Comic-Workbench-Setup.exe)。仍有问题时，可联系客服微信 `mechodd` 获取帮助。
 
 ### 页面空白、连接失败或生成失败怎么办？
 
@@ -119,7 +121,7 @@ AI漫画工作台把在线漫画制作工具放进独立的电脑窗口，适合
 
 ### 如何更新？
 
-从本仓库下载新版安装包，退出旧版后重新安装。本客户端当前通过下载安装包更新。
+从本仓库下载新版软件，完全退出旧版后，将新版完整解压到新的文件夹运行。如有桌面快捷方式，请将其指向新版 exe。
 
 ## 📌 使用说明
 
